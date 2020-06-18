@@ -1,0 +1,2 @@
+python MouseClick.py
+@pause
